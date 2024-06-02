@@ -11,7 +11,7 @@ function CurrentCity(){
                     <h2 className='text-center mt-[25px] text-white font-bold text-[25px]'>London</h2>
                     <h1 className='mt-5 text-center text-white font-bold text-[60px]'>0</h1>
                     <h3 className='text-center text-white text-sm'>0~2°</h3>
-                    <img className="w-[120px]" src={rainImg} alt="rain"></img>
+                    <img className="w-[120px]" src={rainImg} alt="rain" />
                 </div>
                 <DetailInfo />
             </div>
